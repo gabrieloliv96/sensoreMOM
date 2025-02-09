@@ -1,4 +1,4 @@
-# Nome do Projeto
+# SensoresMOM
 
 Projeto para disciplina de Programação Paralela e Distribuida.
 
